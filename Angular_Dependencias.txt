@@ -1,0 +1,12 @@
+Instalar CLI Forma Global:
+npm install -g @angular/cli
+
+Instalar CLI Forma Local:
+npm install @angular/cli
+
+Comprobar que este instalado:
+ng versión
+ng --version
+
+Crear un proyecto Nuevo:
+ng new curso_angular
