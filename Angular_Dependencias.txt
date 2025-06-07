@@ -10,3 +10,5 @@ ng --version
 
 Crear un proyecto Nuevo:
 ng new curso_angular
+
+ng generate component components/header
